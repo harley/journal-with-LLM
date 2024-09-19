@@ -175,3 +175,8 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
+credentials.json
+token.json
+# Ignore contents of data folder but keep the folder itself
+data/*
+!data/.keep
